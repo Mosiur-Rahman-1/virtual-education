@@ -1,0 +1,225 @@
+/* Universal style add start */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px orangered solid; */
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+/* Universal style end */
+
+
+/* Genaral style start */
+h1 {
+    font-weight: bold;
+    font-size: 45px;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+h5 {
+    font-weight: 500;
+    font-size: 22px;
+}
+
+p {
+    color: #6C6B6B;
+}
+
+.orange-highlight {
+
+    color: #FD511A;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.blue-highlight {
+
+    color: #21B573;
+}
+
+.genaral-color {
+
+    color: #56548c;
+}
+
+/* Genaral style end */
+
+
+/* Navigation bar styles start */
+.navbar-brand img {
+    height: 55px;
+}
+
+#nav-highlighted {
+
+    padding: 9px 28px;
+    background: #21B573;
+    border-radius: 50px;
+    color: #fff;
+    font-weight: 100;
+    font-size: 14px;
+}
+
+#color-change {
+
+    color: #56548c;
+}
+
+.btn-hover:hover {
+
+    box-shadow: 0 6px 12px 0 rgba(86, 84, 140, 0.5), 0 6px 20px 0 rgba(86, 84, 140, 0.25);
+}
+/* Navigation bar styles start */
+
+
+/* Website hero banner style start */
+.hero-img {
+    width: 100%;
+}
+
+.hero-btn-highlight {
+
+    padding: 9px 36px;
+    background: #21B573;
+    border-radius: 50px;
+    color: #fff;
+    font-weight: 100;
+    font-size: 14px;
+    border: none;
+}
+/* Website hero banner style end */
+
+/* e-School information icons style start */
+
+.icon-size-fix {
+
+    height: 80px;
+}
+
+.round-border-icon {
+
+    border-radius: 10px;
+}
+
+/* e-School information icons style end */
+
+
+/* Online course style start */
+.card {
+
+    border: none;
+    border-radius: 15px;
+}
+
+.card-footer {
+   
+    border-top: none;
+}
+
+.card-footer-icon {
+    height: 25px;
+}
+
+.col-md-7 {
+
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.card-body {
+
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+/* Online course style end */
+
+
+/* Testimonial style start */
+.testimonial-img {
+    height: 120px;
+}
+/* Testimonial style end */
+
+
+
+/* Blog style start */
+
+
+/* Blog style end */
+
+/* Footer style start */
+footer p {
+    color: #fff;
+}
+.footer-bg-color {
+
+    background-color: #17153f;
+    
+}
+
+.footer-text-heading {
+
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.col-padding-1 {
+
+    padding-left: 70px;
+}
+
+.col-padding-2 {
+
+    padding-left: 40px;
+}
+
+.col-padding-3 {
+
+    padding-left: 90px;
+}
+
+.social-icons i {
+
+    color: #fff;
+    padding-left: 35px;
+    font-size: 25px;
+}
+
+.social-icons i:hover {
+
+    color: #21B573;
+}
+
+.fixing-gap {
+
+    border: none;
+    padding: 7px 5px;
+    font-size: 16px;
+}
+
+.beutify-input-label {
+
+    padding: 6px 0;
+}
+
+.color-scroll a{
+
+    color: #21B573;
+    text-decoration: none;
+}
+
+.footer-top-border {
+
+    border-top: #fff solid 1px;
+    width: 200px;
+    display: inline-block;
+    text-align: center !important;
+}
+/* Footer style end */
